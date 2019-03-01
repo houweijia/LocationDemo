@@ -17,6 +17,7 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 
 public class MainActivity extends AppCompatActivity {
+    private int a = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
